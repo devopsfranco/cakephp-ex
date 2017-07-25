@@ -2,7 +2,7 @@
 /**
  * Requests collector.
  *
- *
+ * I don't like PHP
  *  This file collects requests if:
  *	- no mod_rewrite is available or .htaccess files are not supported
  *  - requires App.baseUrl to be uncommented in app/Config/core.php
